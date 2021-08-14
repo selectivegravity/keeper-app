@@ -13,8 +13,9 @@
 
 import React from 'react'
 import ReactDOM from 'react-dom'
+import App from './components/App'
 
 ReactDOM.render(
-    <h1>Okkk</h1>
+    <App />
     ,document.getElementById('root')
 )
